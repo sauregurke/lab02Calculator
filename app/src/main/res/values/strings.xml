@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab02Calculator</string>
+    <string name="a_calculator_app">A Calculator. (App)</string>
+    <string name="divide">Divide</string>
+    <string name="multiply">Multiply</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="second_number">Second Number</string>
+    <string name="first_number">First Number</string>
+    <string name="result">Result</string>
+</resources>
